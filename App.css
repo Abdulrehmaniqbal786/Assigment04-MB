@@ -1,0 +1,171 @@
+.navbar{
+  background-color: aliceblue;
+}
+
+.signup{
+  background-color: blue;
+  color: azure;
+  font-size: larger;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-left: 1100px;
+  margin-bottom: 20px;
+  position: absolute;
+ top: 25px;
+
+ 
+}
+.uni{
+  position: absolute;
+  top: 2300px;
+  margin-left: 770px;
+  background-color: blue;
+  color: azure;
+  font-size: larger;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}
+.logo{
+  margin-left: 20px ;
+  margin-top: 15px;
+}
+.slider{
+  position: relative;
+}
+.h1{
+  position: absolute;
+  top:200px;
+  left:550px;
+  color: beige;
+  font-size: xx-large;
+  font-weight: bolder;
+  font-family:Georgia, 'Times New Roman', Times, serif
+  
+}
+.input{
+  position: absolute;
+  top:330px;
+  left:590px;
+  font-size: larger;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+.myinput{
+  position: absolute;
+  top: 2300px;
+  right: 800px;
+  font-size: larger;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  
+}
+.submit{
+  position: absolute;
+  top:330px;
+  left:885px;
+  font-size: large;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: blue;
+  color: antiquewhite;
+}
+.div2,.div3{
+  margin-top: 20px;
+}
+
+h3{
+  margin-top: 0%;
+  margin-left: 10px;
+}
+.maindiv{
+  background-color: aliceblue;
+  padding: 80px;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+h2{
+  margin-left: 260px;
+  margin-top: 70px;
+
+ 
+}
+.p1,.p2,.p3{
+  
+  margin-top: 160px;
+  margin-top: 0%;
+  margin-left: 220px;
+ 
+ 
+}
+.unit{
+  margin-top: 110px;
+}
+.unit1{
+  margin-top: 105px ;
+}
+
+.main{
+  display: flex;
+}
+
+.men{
+  display: flex;
+  justify-content: space-around;
+  background-color: aliceblue;
+}
+.men1{
+  margin-left: 70px;
+}
+.m1,.m2,.m3{
+  border-radius: 100%;
+  margin-top: 50px;
+}
+
+.d1,.d2,.d3{
+ margin-left: 35px;
+}
+
+.sun{
+  position: absolute;
+  top: 1800px;
+}
+.end{
+  position: absolute;
+  top:2200px ;
+  left:450px;
+  color: beige;
+  font-size: xx-large;
+  font-weight: bolder;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+ 
+
+
+}
+
+.ic{
+  background-color:aliceblue;
+  height: 100px;
+  display: flex;
+ 
+  
+}
+.md1,.md2,.md3,.md4{
+  margin-left: 60px;
+  margin-top: 40px !important;
+  padding: 10px;
+  padding-top: 10px;
+}
+.ii{
+  margin-left: 500px;
+} 
+.i1,.i2,.i3{
+  margin-left: 20px;
+  margin-top: 40px;
+}
